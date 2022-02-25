@@ -2,7 +2,7 @@
 
 # My Enumerables
 
-> Morse decoder is a ruby program that decrypts Morse language.
+>  For this project, I have created a class MyList and a module MyEnumerable. My module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 
 ## Built With
