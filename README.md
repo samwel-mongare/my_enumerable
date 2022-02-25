@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Morse_decoder-blueviolet)
 
-# Morse Decoder
+# My Enumerables
 
 > Morse decoder is a ruby program that decrypts Morse language.
 
